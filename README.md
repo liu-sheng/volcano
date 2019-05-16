@@ -147,3 +147,5 @@ You can reach the maintainers of this project at:
 Slack: [#volcano-sh](http://t.cn/Efa7LKx)
 
 Mailing List: https://groups.google.com/forum/#!forum/volcano-sh
+
+Test OpenLab CI
